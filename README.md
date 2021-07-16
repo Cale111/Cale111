@@ -11,3 +11,10 @@ Languages (Intermediate Skill Level):
 
 Currently Learning:
 - C++
+
+Planning to Learn:
+- Lua
+- C
+- C#
+- Swift
+- ASM
