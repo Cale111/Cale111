@@ -8,6 +8,8 @@ My hobbies include video games, programming (obviously!), art, music, and other 
 For programming, I use Python. Basic, but it's my favourite.
 I'm learning C++ and other languages as well.
 
+Profile Picture Picrew by Scuffscotch
+https://picrew.me/image_maker/431179
 
 ### Other Accounts
 
