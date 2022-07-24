@@ -1,5 +1,20 @@
-I'm Cale111, someone interested in technology and electronics.
+# Hi!
+## I'm Cale111, but use my nickname, "cake"
 
-My hobbies are mostly just tech stuff, like programming, 3D Modelling, Digital Art, and so on, but that's not everything, I have non-technology related hobbies too, including traditional art, music, and some others.
+I'm interested in technology and electronics.
 
-My favourite programming language right now is Python, but I can write Javascript and basic C++ as well.
+My hobbies include video games, programming (obviously!), art, music, and other stuff.
+
+For programming, I use Python. Basic, but it's my favourite.
+I'm learning C++ and other languages as well.
+
+
+### Other Accounts
+
+Discord: Cale111#1234
+
+Twitter: https://twitter.com/Cale1111
+
+Reddit: https://reddit.com/u/Cale111
+
+Steam: https://steamcommunity.com/id/Cale111
