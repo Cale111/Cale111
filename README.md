@@ -14,9 +14,7 @@ https://picrew.me/image_maker/431179
 
 ### Other Accounts
 
-Discord: Cale111#1234
-
-Twitter: https://twitter.com/Cale1111
+Discord: @cale111
 
 Reddit: https://reddit.com/u/Cale111
 
