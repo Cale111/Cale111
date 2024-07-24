@@ -1,21 +1,14 @@
-# Hi!
-## I'm Cale111, but use my nickname, "cake"
+### I'm Cale111, but you can call me Cake!
 
-I'm interested in technology and electronics.
+I'm really interested in technology and electronics. Some hobbies I have are playing video games, programming, making art, listening to music, and other things too. I really like creative mediums - it's the whole reason I got into programming, and everything else.
 
-My hobbies include video games, programming (obviously!), art, music, and other stuff.
+Programming can be a creative outlet, as it allows you to make whatever you want! Especially in games, you can come up with any world you want.
 
-For programming, I use Python. Basic, but it's my favourite.
-I'm learning C++ and other languages as well.
+For programming, my main language is Python. It's the one I've been using for years. I know other languages to a lesser degree, but because programming knowledge is largely transferable between languages, it's not difficult for me to pick new ones up.
 
-Profile Picture Picrew by Scuffscotch
-
-https://picrew.me/image_maker/431179
+[Profile Picture Picrew by ScuffScotch](https://picrew.me/image_maker/431179)
 
 ### Other Accounts
 
-Discord: @cale111
-
-Reddit: https://reddit.com/u/Cale111
-
-Steam: https://steamcommunity.com/id/Cale111
+- **Discord**: @cale111
+- **Steam**: [Cale111](https://steamcommunity.com/id/Cale111)
